@@ -5,6 +5,7 @@
 This is a simple interactive quiz web application created using HTML, CSS, and JavaScript. It features multiple-choice questions, scoring, and a timer for each question.
 
 ## Table of Contents
+
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation and Setup Instructions](#Installation-and-Setup-Instructions)
