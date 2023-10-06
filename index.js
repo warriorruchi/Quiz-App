@@ -113,13 +113,11 @@ function selectAnswer(e) {
 function showScore() {
     resetState();
     questionElement.innerHTML = `You scored ${scrore} out of ${questions.length}!`;
-    // NextButton.innerHTML = "Play Again";
-    // NextButton.style.display = "block";
     restartButton.style.display = "block";
 }
 
 function startTimer() {
-    let timeLeft = 10; 
+    let timeLeft = 10;
     const timerElement = document.createElement("div");
     timerElement.id = "timer";
     answerButtons.appendChild(timerElement);
@@ -131,7 +129,7 @@ function startTimer() {
             selectAnswer({ target: null });
         }
         timeLeft--;
-    }, 1000); 
+    }, 1000);
 }
 
 
