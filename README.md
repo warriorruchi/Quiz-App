@@ -29,7 +29,7 @@ To create this clone following Tech stack is used by contributors.
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 ## **Deployed Link :** 
-<a href="https://warriorruchi.github.io/Quiz-app/">link</a>
+<a href=" https://warriorruchi.github.io/Quiz-app/">link</a>
 
 ## Installation and Setup Instructions
 Clone down this repository using this <a href="https://github.com/warriorruchi/Quiz-app">link</a> 
