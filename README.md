@@ -1,8 +1,7 @@
 # Quiz-App
 
-![Quiz Screenshot](quiz-screenshot.png)
-
 This is a simple interactive quiz web application created using HTML, CSS, and JavaScript. It features multiple-choice questions, scoring, and a timer for each question.
+![Quiz Screenshot](https://github.com/warriorruchi/Quiz-app/assets/120272171/ea567807-6b74-4798-bb03-84ca0ed63115)
 
 ## Table of Contents
 
