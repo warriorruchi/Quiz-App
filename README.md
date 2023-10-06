@@ -7,6 +7,7 @@ This is a simple interactive quiz web application created using HTML, CSS, and J
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Live Website](#deployed)
 - [Installation and Setup Instructions](#Installation-and-Setup-Instructions)
 - [Getting Started](#Getting-Started)
 
@@ -26,6 +27,9 @@ To create this clone following Tech stack is used by contributors.
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+## **Deployed Link :** 
+<a href="https://warriorruchi.github.io/Quiz-app/">link</a>
 
 ## Installation and Setup Instructions
 Clone down this repository using this <a href="https://github.com/warriorruchi/Quiz-app">link</a> 
